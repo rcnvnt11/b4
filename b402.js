@@ -38,7 +38,7 @@ async function start() {
         MINT_COUNT,
         WORKER_COUNT,
         APPROVE,
-        RPC = "https://rpc.ankr.com/bsc/b107dc2c0b183923e678913e18e080df0f7ba76f6a1b7c7dc70bcddc7718cc97",
+        RPC = "",
         API_BASE = "https://www.b402.ai/api/api/v1",
         RELAYER = "0xE1Af7DaEa624bA3B5073f24A6Ea5531434D82d88",
         TOKEN = "0x55d398326f99059fF775485246999027B3197955",
